@@ -1,0 +1,2 @@
+# Location-Finding
+Osint method
